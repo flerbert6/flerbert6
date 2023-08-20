@@ -1,6 +1,7 @@
-### 17, Student
+### 17
+### Student
 ### Australia
-### CS50x 2023
+### Currently taking: CS50x 2023
 
 
 <!--
