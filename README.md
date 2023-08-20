@@ -1,4 +1,7 @@
-### Hi there 👋
+### 17, Student
+### Australia
+### CS50x 2023
+
 
 <!--
 **flerbert6/flerbert6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
