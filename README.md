@@ -1,4 +1,4 @@
-### Student - Australia
+### student - currently taking cs50x
 
 <!--
 **flerbert6/flerbert6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
